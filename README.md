@@ -1,23 +1,3 @@
-# Restful-Web-Services-with-Spring-Boot
+In the first part of the course, you will learn the basics of RESTful web services developing resources for a social media application. You will learn to implement these resources with multiple features - versioning, exception handling, documentation (Swagger), basic authentication (Spring Security), filtering and HATEOAS. You will learn the best practices in designing RESTful web services.
 
-Learn basics of RESTful web services for a social media application
-Implement resources with multiple features:
-Versioning
-Exception handling
-Documentation (Swagger)
-Basic authentication (Spring Security)
-Filtering
-HATEOAS
-Learn best practices in designing RESTful web services
-Use the following tools and technologies:
-Spring (Dependency Management)
-Spring MVC (or Spring REST)
-Spring Boot
-Spring Security (Authentication and Authorization)
-Spring Boot Actuator (Monitoring)
-Swagger (Documentation)
-Maven (dependencies management)
-Eclipse (IDE)
-Postman (REST Services Client)
-Tomcat Embedded Web Server
-Help provided in setting up each of these tools and technologies.
+In this part of the course, you will be using Spring (Dependency Management), Spring MVC (or Spring REST), Spring Boot, Spring Security (Authentication and Authorization), Spring Boot Actuator (Monitoring), Swagger (Documentation), Maven (dependencies management), Eclipse (IDE), Postman (REST Services Client) and Tomcat Embedded Web Server. We will help you set up each one of these.
