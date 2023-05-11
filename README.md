@@ -13,9 +13,6 @@ Application made using:\
       H2-in-memory-database,\
   Spring Boot Actuator,\
   Swagger,\
-  
-       Lombok,\
-       JWT\
         Maven</b></i>.
         
 ### Features
