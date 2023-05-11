@@ -1,3 +1,29 @@
-In the first part of the course, you will learn the basics of RESTful web services developing resources for a social media application. You will learn to implement these resources with multiple features - versioning, exception handling, documentation (Swagger), basic authentication (Spring Security), filtering and HATEOAS. You will learn the best practices in designing RESTful web services.
 
-In this part of the course, you will be using Spring (Dependency Management), Spring MVC (or Spring REST), Spring Boot, Spring Security (Authentication and Authorization), Spring Boot Actuator (Monitoring), Swagger (Documentation), Maven (dependencies management), Eclipse (IDE), Postman (REST Services Client) and Tomcat Embedded Web Server. We will help you set up each one of these.
+# Social Media Application (made with Spring Boot)
+#### Simple social media application I made to learn Spring framework.
+
+
+## About the project
+Application made using:\
+ <i><b>Java 8,\
+  Spring Boot ,\
+   Spring Web,\
+    Spring Data JPA,\
+     Spring Security,\
+      H2-in-memory-database,\
+  Spring Boot Actuator,\
+  Swagger,\
+  
+       Lombok,\
+       JWT\
+        Maven</b></i>.
+        
+### Features
+1. Create a new user: A user can be created by sending a POST request to the server with the user details in the request body.
+2.Create a new post: A post can be created by sending a POST request to the server with the post details in the request body. The user ID can be included in the request body or in the URL to associate the post with a user.
+3. Retrieve all posts by a user: All the posts created by a user can be retrieved by sending a GET request to the server with the user ID in the URL.
+4. Retrieve a specific post: A specific post can be retrieved by sending a GET request to the server with the post ID in the URL.
+5. Update a post: A post can be updated by sending a PUT or PATCH request to the server with the updated post details in the request body. The post ID can be included in the URL to identify the post to be updated.
+
+
+
