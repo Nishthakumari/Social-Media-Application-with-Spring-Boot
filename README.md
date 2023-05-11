@@ -21,6 +21,8 @@ Application made using:\
 3. Retrieve all posts by a user: All the posts created by a user can be retrieved by sending a GET request to the server with the user ID in the URL.
 4. Retrieve a specific post: A specific post can be retrieved by sending a GET request to the server with the post ID in the URL.
 5. Update a post: A post can be updated by sending a PUT or PATCH request to the server with the updated post details in the request body. The post ID can be included in the URL to identify the post to be updated.
+6. Retrieve all user
+7. Delete a user
 
 
 
